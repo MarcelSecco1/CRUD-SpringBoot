@@ -9,7 +9,7 @@ This repository contains a simple CRUD project built using Java Spring. The aim 
 1. Clone the repository:
 
 ```bash
-$ https://github.com/MarcelSecco1/CRUD-SpringBoot.git
+https://github.com/MarcelSecco1/CRUD-SpringBoot.git
 ```
 
 2. Install dependencies with Maven
